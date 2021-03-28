@@ -2,6 +2,10 @@
 [![codecov](https://codecov.io/gh/davips/garoupa/branch/main/graph/badge.svg)](https://codecov.io/gh/davips/garoupa)
 
 # garoupa
+
+# [ This project migrated to https://github.com/davips/garoupa ]
+
+
 Cryptographic hash, abstract algebra and operators - see package hosh for a faster, native (compiled) hash/ops approach.
 
 <center>
